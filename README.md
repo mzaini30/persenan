@@ -1,5 +1,11 @@
 # Persenan
 
+## Build
+
+```bash
+pnpm build:android
+```
+
 ## Compile Jadi Aplikasi Android
 
 Gunakan [andro](https://github.com/mzaini30/andro)
